@@ -1,2 +1,3 @@
-# ezrpc-analyz-cli
-ezrpc组件库使用情况分析脚手架
+# Arch.EzrpcUsageAnalyzer.Core
+
+ezrpc组件使用频率分析
